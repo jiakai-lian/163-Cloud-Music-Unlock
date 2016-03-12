@@ -1,7 +1,8 @@
 # 163-Cloud-Music-Unlock
-Unlock 163 cloud music by server &amp; proxy mode，解锁版权以及地域限制
+XX网易云音乐版权以及地域限制
 
 ## For OpenWRT or 其他借助DNS实现的Unblocker用户
+当然你也可以尝试把整个server部署到路由器里面，需要python环境...
 ```
 配置添加 address=/music.163.com/[serverip]
 ```
