@@ -1,6 +1,9 @@
 # 163-Cloud-Music-Unlock
 XX网易云音乐版权以及地域限制
 
+## 公共测试服务器
+104.238.223.126
+
 ## For OpenWRT or 其他借助DNS实现的Unblocker用户
 当然你也可以尝试把整个server部署到路由器里面，需要python环境...
 ```
