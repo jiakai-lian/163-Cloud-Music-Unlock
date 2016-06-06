@@ -32,6 +32,8 @@ sudo pip install tornado
 python music163.py -m server -p 16163 -a 127.0.0.1
 ```
 Nginx代理服务器参考配置
+http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/
+
 ```
 server {
     listen 0.0.0.0:80;
