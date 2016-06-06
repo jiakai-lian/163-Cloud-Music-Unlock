@@ -27,8 +27,9 @@ hosts添加 [serverip] music.163.com
 ## 以server方式部署
 安装Python环境并运行
 ```
-sudo apt-get install python-dev python-pip
-sudo pip install tornado
+-sudo apt-get install python-dev python-pip-
+-sudo pip install tornado-
+sudo easy_install tornado
 python music163.py -m server -p 16163 -a 127.0.0.1
 ```
 Nginx代理服务器参考配置
